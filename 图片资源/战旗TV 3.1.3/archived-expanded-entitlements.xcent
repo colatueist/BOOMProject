@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>2VKUZ77AH8.com.gameabc.zhanqiIPhone</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>2VKUZ77AH8.com.gameabc.zhanqiIPhone</string>
+	</array>
+</dict>
+</plist>
